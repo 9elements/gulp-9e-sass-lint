@@ -14,6 +14,10 @@
 </tr>
 </table>
 
+## Screenshot
+
+![](http://i.imgur.com/HTN9cyD.png)
+
 ## Install
 
     npm install gulp-9e-sass-lint --save-dev
