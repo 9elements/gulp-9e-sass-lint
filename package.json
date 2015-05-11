@@ -1,6 +1,6 @@
 {
   "name": "gulp-9e-sass-lint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Gulp plugin for 9e-sass-lint",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Sascha Gehlich <sascha@gehlich.us>",
   "license": "MIT",
   "dependencies": {
-    "9e-sass-lint": "^0.0.4",
+    "9e-sass-lint": "^0.0.6",
     "app-root-path": "^1.0.0",
     "colors": "^1.0.3",
     "gulp-util": "^3.0.4",
